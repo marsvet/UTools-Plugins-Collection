@@ -1,0 +1,9 @@
+{
+  "name": "utools-plugins-backup",
+  "repository": "git@github.com:marsvet/uTools-plugins-backup.git",
+  "author": "marsvet <marsvet@163.com>",
+  "dependencies": {
+    "asar": "^3.0.3",
+    "pinyinlite": "^1.2.1"
+  }
+}
