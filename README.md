@@ -78,6 +78,8 @@ C++参考文档
 
 - [calendar-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/calendar-v0.0.2.upx)
 
+- [calendar-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/calendar-v0.0.3.upx)
+
 ### Chrome 小助手
 
 Chrome 书签搜索
@@ -99,6 +101,8 @@ rcalculator
 - [Code计算器-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Code计算器-v0.1.0.upx)
 
 - [Code计算器-v0.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Code计算器-v0.1.1.upx)
+
+- [Code计算器-v0.2.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Code计算器-v0.2.0.upx)
 
 ### CSS 文档
 
@@ -268,6 +272,8 @@ HTTP模拟请求，支持 Post、Get请求模拟
 
 - [http测试-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/http测试-v0.1.0.upx)
 
+- [http测试-v0.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/http测试-v0.1.1.upx)
+
 ### iconfont搜索
 
 快速搜索iconfont图标
@@ -321,6 +327,8 @@ json转其他语言对象
 JSON格式化处理
 
 - [JSON编辑器-v1.3.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/JSON编辑器-v1.3.2.upx)
+
+- [JSON编辑器-v1.3.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/JSON编辑器-v1.3.3.upx)
 
 ### kali 工具介绍
 
@@ -399,6 +407,8 @@ Nodejs 中文文档
 - [note-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/note-v0.0.4.upx)
 
 - [note-v0.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/note-v0.0.6.upx)
+
+- [note-v0.0.9.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/note-v0.0.9.upx)
 
 ### otp
 
@@ -628,6 +638,8 @@ winget for uTools
 
 - [备忘助手-v2.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/备忘助手-v2.0.2.upx)
 
+- [备忘助手-v2.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/备忘助手-v2.0.3.upx)
+
 ### 本地搜索
 
 基于 Everything 更便捷的本地搜索
@@ -643,6 +655,8 @@ winget for uTools
 - [便民工具-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/便民工具-v0.0.1.upx)
 
 - [便民工具-v0.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/便民工具-v0.0.6.upx)
+
+- [便民工具-v0.0.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/便民工具-v0.0.7.upx)
 
 ### 变量快速翻译命名插件
 
@@ -794,6 +808,8 @@ ping端口或者IP
 
 - [剪切板-v1.3.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/剪切板-v1.3.1.upx)
 
+- [剪切板-v1.3.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/剪切板-v1.3.3.upx)
+
 ### 基金走势
 
 查看每日基金走势以及预估收益
@@ -817,6 +833,8 @@ ping端口或者IP
 记忆力测试
 
 - [记忆力测试-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/记忆力测试-v0.0.2.upx)
+
+- [记忆力测试-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/记忆力测试-v0.0.3.upx)
 
 ### 聚合翻译
 
@@ -893,6 +911,8 @@ ping端口或者IP
 - [批量重命名-v1.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量重命名-v1.1.0.upx)
 
 - [批量重命名-v1.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量重命名-v1.1.1.upx)
+
+- [批量重命名-v1.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量重命名-v1.1.2.upx)
 
 ### 批量修改文件名称
 
@@ -1100,6 +1120,8 @@ Emoji版扫雷，又可以愉快的划水了。
 
 - [文件收藏-v0.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件收藏-v0.0.5.upx)
 
+- [文件收藏-v0.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件收藏-v0.0.6.upx)
+
 ### 文件整理
 
 文件快速整理
@@ -1143,6 +1165,8 @@ Emoji版扫雷，又可以愉快的划水了。
 - [小说阅读-v0.2.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/小说阅读-v0.2.6.upx)
 
 - [小说阅读-v0.3.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/小说阅读-v0.3.1.upx)
+
+- [小说阅读-v0.3.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/小说阅读-v0.3.2.upx)
 
 ### 卸载软件
 
@@ -1191,6 +1215,8 @@ Emoji版扫雷，又可以愉快的划水了。
 - [音乐播放器-v1.8.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.0.upx)
 
 - [音乐播放器-v1.8.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.1.upx)
+
+- [音乐播放器-v1.8.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.3.upx)
 
 ### 音乐下载
 
@@ -1275,5 +1301,7 @@ JavaScript & PHP正则表达式编辑&测试
 - [资源搜索-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/资源搜索-v0.0.2.upx)
 
 - [资源搜索-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/资源搜索-v0.0.3.upx)
+
+- [资源搜索-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/资源搜索-v0.0.4.upx)
 
 
