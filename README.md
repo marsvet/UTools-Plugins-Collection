@@ -104,17 +104,31 @@ rcalculator
 
 - [Code计算器-v0.2.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Code计算器-v0.2.0.upx)
 
+- [Code计算器-v0.2.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Code计算器-v0.2.1.upx)
+
 ### CSS 文档
 
 CSS MDN 文档
 
 - [CSS-文档-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/CSS-文档-v1.0.0.upx)
 
+### DarkLight
+
+macOS 深色模式与浅色模式切换
+
+- [DarkLight-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/DarkLight-v0.0.1.upx)
+
 ### dayjs
 
 dayjs 文档查询，包含中英文文档
 
 - [dayjs-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/dayjs-v0.1.0.upx)
+
+### Default Folder X
+
+Default Folder X 工具
+
+- [Default-Folder-X-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Default-Folder-X-v0.0.1.upx)
 
 ### Deskswitch
 
@@ -202,6 +216,8 @@ Ghost Note
 
 - [Ghost-Note-v0.1.10.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Ghost-Note-v0.1.10.upx)
 
+- [Ghost-Note-v0.1.12.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Ghost-Note-v0.1.12.upx)
+
 ### gin
 
 gin 文档查询，包含中英文文档
@@ -277,6 +293,8 @@ HTTP模拟请求，支持 Post、Get请求模拟
 ### iconfont搜索
 
 快速搜索iconfont图标
+
+- [iconfont搜索-v1.4.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/iconfont搜索-v1.4.0.upx)
 
 - [iconfont搜索-v2.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/iconfont搜索-v2.0.0.upx)
 
@@ -370,6 +388,12 @@ lodash 文档速查
 
 - [lodash-文档-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/lodash-文档-v1.0.0.upx)
 
+### Mac 新建文件
+
+Mac 在 Finder 当前目录新建文件
+
+- [Mac-新建文件-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Mac-新建文件-v0.0.1.upx)
+
 ### MAC快速切换DNS
 
 MAC快速切换DNS，清楚DNS缓存
@@ -409,6 +433,8 @@ Nodejs 中文文档
 - [note-v0.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/note-v0.0.6.upx)
 
 - [note-v0.0.9.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/note-v0.0.9.upx)
+
+- [note-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/note-v1.0.0.upx)
 
 ### otp
 
@@ -545,6 +571,12 @@ sql 格式化工具
 随时记录你的大小事务
 
 - [todo-v0.2.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/todo-v0.2.1.upx)
+
+### Tophub 今日热榜
+
+今日热榜提供各站热榜聚合：微信、今日头条、百度、知乎、V2EX、微博、贴吧、豆瓣、天涯、虎扑、Github、抖音...追踪全网热点、简单高效阅读。 数据来源: https://tophub.today
+
+- [Tophub-今日热榜-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Tophub-今日热榜-v0.0.1.upx)
 
 ### transformLatter
 
@@ -946,6 +978,12 @@ Emoji版扫雷，又可以愉快的划水了。
 
 - [提醒-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/提醒-v0.0.1.upx)
 
+### 视频解析
+
+快速读取当前浏览器地址并且跳转到视频解析网站
+
+- [视频解析-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/视频解析-v1.0.0.upx)
+
 ### 数据单位换算
 
 数据单位换算
@@ -957,6 +995,8 @@ Emoji版扫雷，又可以愉快的划水了。
 书签搜索
 
 - [书签搜索-v0.1.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/书签搜索-v0.1.3.upx)
+
+- [书签搜索-v0.1.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/书签搜索-v0.1.4.upx)
 
 ### 松鼠集 Server
 
@@ -971,6 +1011,12 @@ Emoji版扫雷，又可以愉快的划水了。
 随机获取四张壁纸，选择设为桌面，换换壁纸，换换心情
 
 - [随机壁纸-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/随机壁纸-v0.0.3.upx)
+
+### 随机字符数字生成
+
+Random character number generation.
+
+- [随机字符数字生成-v0.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/随机字符数字生成-v0.1.1.upx)
 
 ### 沙拉查词
 
@@ -1079,6 +1125,12 @@ Emoji版扫雷，又可以愉快的划水了。
 快速发送信息
 
 - [微信小助手-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/微信小助手-v1.0.0.upx)
+
+### 文本比较
+
+文本快速比较
+
+- [文本比较-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文本比较-v0.0.1.upx)
 
 ### 文件分享
 
@@ -1223,6 +1275,18 @@ Emoji版扫雷，又可以愉快的划水了。
 下载音乐，来自网易云
 
 - [音乐下载-v0.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐下载-v0.1.1.upx)
+
+### 语雀搜索
+
+快速搜索语雀知识库，支持复制为markdown
+
+- [语雀搜索-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/语雀搜索-v1.0.0.upx)
+
+### 在当前目录
+
+在访达的当前目录执行快捷操作
+
+- [在当前目录-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/在当前目录-v0.0.1.upx)
 
 ### 在线翻译
 
