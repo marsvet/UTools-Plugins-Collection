@@ -58,6 +58,8 @@ autojs文档
 
 - [Bookmark-Anywhere-v0.2.14.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Bookmark-Anywhere-v0.2.14.upx)
 
+- [Bookmark-Anywhere-v0.2.16.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Bookmark-Anywhere-v0.2.16.upx)
+
 ### Bools
 
 浏览器工具, Broswer tools
@@ -105,6 +107,8 @@ rcalculator
 - [Code计算器-v0.2.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Code计算器-v0.2.0.upx)
 
 - [Code计算器-v0.2.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Code计算器-v0.2.1.upx)
+
+- [Code计算器-v0.2.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Code计算器-v0.2.2.upx)
 
 ### CSS 文档
 
@@ -289,6 +293,8 @@ HTTP模拟请求，支持 Post、Get请求模拟
 - [http测试-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/http测试-v0.1.0.upx)
 
 - [http测试-v0.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/http测试-v0.1.1.upx)
+
+- [http测试-v0.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/http测试-v0.1.2.upx)
 
 ### iconfont搜索
 
@@ -685,6 +691,8 @@ winget for uTools
 便民工具箱
 
 - [便民工具-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/便民工具-v0.0.1.upx)
+
+- [便民工具-v0.0.11.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/便民工具-v0.0.11.upx)
 
 - [便民工具-v0.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/便民工具-v0.0.6.upx)
 
@@ -1314,6 +1322,8 @@ Random character number generation.
 
 - [插件面板-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/插件面板-v0.0.4.upx)
 
+- [插件面板-v0.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/插件面板-v0.0.5.upx)
+
 ### 渣男：说话的艺术
 
 科学的步入“渣男”行列
@@ -1367,5 +1377,7 @@ JavaScript & PHP正则表达式编辑&测试
 - [资源搜索-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/资源搜索-v0.0.3.upx)
 
 - [资源搜索-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/资源搜索-v0.0.4.upx)
+
+- [资源搜索-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/资源搜索-v0.1.0.upx)
 
 
