@@ -312,6 +312,12 @@ HTTP模拟请求，支持 Post、Get请求模拟
 
 - [icons8搜索-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/icons8搜索-v1.0.1.upx)
 
+### iGot「插件版」
+
+原「Bark助手」，现全面支持app、邮箱、微信推送 ; win & mac桌面客户端管理
+
+- [iGot「插件版」-v1.0.13.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/iGot「插件版」-v1.0.13.upx)
+
 ### I分享
 
 局域网分享文件
@@ -411,6 +417,18 @@ MAC快速切换DNS，清楚DNS缓存
 A simple markdown editor for utools.
 
 - [MarkdownEditor-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/MarkdownEditor-v0.0.2.upx)
+
+### Markdown转Html
+
+实现markdown转Html工具
+
+- [Markdown转Html-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Markdown转Html-v0.0.1.upx)
+
+### maven-search
+
+gradle依赖查询
+
+- [maven-search-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/maven-search-v0.0.3.upx)
 
 ### Mverything
 
@@ -682,6 +700,8 @@ winget for uTools
 
 基于 Everything 更便捷的本地搜索
 
+- [本地搜索-v1.3.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/本地搜索-v1.3.3.upx)
+
 - [本地搜索-v2.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/本地搜索-v2.0.2.upx)
 
 - [本地搜索-v2.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/本地搜索-v2.0.3.upx)
@@ -912,6 +932,12 @@ ping端口或者IP
 
 - [垃圾分类小助手-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/垃圾分类小助手-v0.0.1.upx)
 
+### 聊天室
+
+聊天室
+
+- [聊天室-v0.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/聊天室-v0.0.5.upx)
+
 ### 任务清单
 
 任务清单
@@ -1046,6 +1072,8 @@ Random character number generation.
 
 - [图床-v0.2.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图床-v0.2.2.upx)
 
+- [图床-v0.2.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图床-v0.2.5.upx)
+
 ### 图片编辑
 
 图片编辑
@@ -1065,6 +1093,8 @@ Random character number generation.
 ### 图片转文字
 
 快速识别图片中的文字
+
+- [图片转文字-v0.2.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图片转文字-v0.2.1.upx)
 
 - [图片转文字-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图片转文字-v1.0.0.upx)
 
