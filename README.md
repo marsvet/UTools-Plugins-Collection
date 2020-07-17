@@ -164,6 +164,12 @@ Docker CLI 文档 (v19.03) 英文原版
 
 - [Docker-CLI-文档-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Docker-CLI-文档-v0.0.1.upx)
 
+### Edge 小助手
+
+Microsoft Edge 小助手
+
+- [Edge-小助手-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Edge-小助手-v0.0.1.upx)
+
 ### Electron 文档
 
 Electron 中文文档
@@ -187,6 +193,12 @@ Electron 中文文档
 es6 阮一峰文档
 
 - [es6-文档-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/es6-文档-v1.0.0.upx)
+
+### FanFou
+
+饭否
+
+- [FanFou-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/FanFou-v0.0.1.upx)
 
 ### FileBed
 
@@ -1293,6 +1305,12 @@ Random character number generation.
 色值、色板
 
 - [颜色小助手-v1.3.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/颜色小助手-v1.3.6.upx)
+
+### 压缩图片
+
+轻量级图片批量压缩工具，支持JPG，PNG，GIF
+
+- [压缩图片-v0.4.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/压缩图片-v0.4.3.upx)
 
 ### 音乐播放器
 
