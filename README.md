@@ -324,6 +324,8 @@ HTTP模拟请求，支持 Post、Get请求模拟
 
 - [icons8搜索-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/icons8搜索-v1.0.1.upx)
 
+- [icons8搜索-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/icons8搜索-v1.0.2.upx)
+
 ### iGot「插件版」
 
 原「Bark助手」，现全面支持app、邮箱、微信推送 ; win & mac桌面客户端管理
@@ -471,6 +473,8 @@ Nodejs 中文文档
 - [note-v0.0.9.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/note-v0.0.9.upx)
 
 - [note-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/note-v1.0.0.upx)
+
+- [note-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/note-v1.0.1.upx)
 
 ### otp
 
@@ -1044,6 +1048,8 @@ Emoji版扫雷，又可以愉快的划水了。
 
 - [书签搜索-v0.1.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/书签搜索-v0.1.4.upx)
 
+- [书签搜索-v0.1.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/书签搜索-v0.1.5.upx)
+
 ### 松鼠集 Server
 
  松鼠集服务
@@ -1071,6 +1077,8 @@ Random character number generation.
 - [沙拉查词-v0.2.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/沙拉查词-v0.2.4.upx)
 
 - [沙拉查词-v0.2.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/沙拉查词-v0.2.5.upx)
+
+- [沙拉查词-v0.2.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/沙拉查词-v0.2.7.upx)
 
 ### 占位图
 
@@ -1325,6 +1333,8 @@ Random character number generation.
 - [音乐播放器-v1.8.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.1.upx)
 
 - [音乐播放器-v1.8.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.3.upx)
+
+- [音乐播放器-v1.8.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.4.upx)
 
 ### 音乐下载
 
