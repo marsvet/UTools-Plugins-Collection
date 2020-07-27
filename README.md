@@ -318,6 +318,8 @@ HTTP模拟请求，支持 Post、Get请求模拟
 
 - [iconfont搜索-v2.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/iconfont搜索-v2.1.0.upx)
 
+- [iconfont搜索-v2.3.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/iconfont搜索-v2.3.0.upx)
+
 ### icons8搜索
 
 搜索icons8的图标，并可以下载png、svg格式，或转成ico、icns格式
@@ -373,6 +375,8 @@ JSON格式化处理
 - [JSON编辑器-v1.3.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/JSON编辑器-v1.3.2.upx)
 
 - [JSON编辑器-v1.3.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/JSON编辑器-v1.3.3.upx)
+
+- [JSON编辑器-v1.3.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/JSON编辑器-v1.3.5.upx)
 
 ### kali 工具介绍
 
@@ -1110,6 +1114,8 @@ Random character number generation.
 
 - [图片压缩-v1.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图片压缩-v1.0.5.upx)
 
+- [图片压缩-v1.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图片压缩-v1.0.6.upx)
+
 ### 图片转文字
 
 快速识别图片中的文字
@@ -1336,6 +1342,8 @@ Random character number generation.
 
 - [音乐播放器-v1.8.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.4.upx)
 
+- [音乐播放器-v1.8.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.5.upx)
+
 ### 音乐下载
 
 下载音乐，来自网易云
@@ -1382,6 +1390,8 @@ Random character number generation.
 
 - [插件面板-v0.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/插件面板-v0.0.5.upx)
 
+- [插件面板-v0.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/插件面板-v0.0.6.upx)
+
 ### 渣男：说话的艺术
 
 科学的步入“渣男”行列
@@ -1419,6 +1429,8 @@ JavaScript & PHP正则表达式编辑&测试
 - [自动化助手-v1.0.9.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/自动化助手-v1.0.9.upx)
 
 - [自动化助手-v1.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/自动化助手-v1.1.2.upx)
+
+- [自动化助手-v1.1.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/自动化助手-v1.1.5.upx)
 
 ### 自选股
 
