@@ -818,6 +818,8 @@ winget for uTools
 
 - [短地址-v1.0.11.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/短地址-v1.0.11.upx)
 
+- [短地址-v1.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/短地址-v1.1.0.upx)
+
 ### 端口检测
 
 ping端口或者IP
@@ -939,6 +941,8 @@ ping端口或者IP
 - [快捷命令-v1.6.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v1.6.0.upx)
 
 - [快捷命令-v1.6.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v1.6.1.upx)
+
+- [快捷命令-v2.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.0.1.upx)
 
 ### 快速文本处理
 
@@ -1219,6 +1223,8 @@ Random character number generation.
 文件加密
 
 - [文件加密-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件加密-v1.0.2.upx)
+
+- [文件加密-v1.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件加密-v1.0.3.upx)
 
 ### 文件格式转换
 
