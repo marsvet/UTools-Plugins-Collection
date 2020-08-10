@@ -738,6 +738,8 @@ winget for uTools
 
 - [便民工具-v0.0.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/便民工具-v0.0.7.upx)
 
+- [便民工具-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/便民工具-v1.0.0.upx)
+
 ### 变量快速翻译命名插件
 
 使用翻译进行变量格式化命名.
@@ -753,6 +755,8 @@ winget for uTools
 - [编码小助手-v1.3.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/编码小助手-v1.3.1.upx)
 
 - [编码小助手-v1.3.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/编码小助手-v1.3.2.upx)
+
+- [编码小助手-v1.3.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/编码小助手-v1.3.3.upx)
 
 ### 不朽花密码管理
 
@@ -904,6 +908,8 @@ ping端口或者IP
 
 - [计算稿纸-v0.1.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/计算稿纸-v0.1.6.upx)
 
+- [计算稿纸-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/计算稿纸-v1.0.2.upx)
+
 ### 鸡汤
 
 干了这碗鸡汤
@@ -967,6 +973,8 @@ ping端口或者IP
 任务清单
 
 - [任务清单-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/任务清单-v0.0.3.upx)
+
+- [任务清单-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/任务清单-v0.0.4.upx)
 
 ### 论文文献引用格式生成器
 
@@ -1349,6 +1357,8 @@ Random character number generation.
 - [音乐播放器-v1.8.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.4.upx)
 
 - [音乐播放器-v1.8.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.5.upx)
+
+- [音乐播放器-v1.8.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.7.upx)
 
 ### 音乐下载
 
