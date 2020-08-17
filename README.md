@@ -696,6 +696,8 @@ whistle
 
 - [whistle-v1.0.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/whistle-v1.0.7.upx)
 
+- [whistle-v1.0.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/whistle-v1.0.8.upx)
+
 ### winget
 
 winget for uTools
