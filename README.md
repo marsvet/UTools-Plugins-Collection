@@ -448,6 +448,8 @@ gradle依赖查询
 
 - [maven-search-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/maven-search-v0.0.3.upx)
 
+- [maven-search-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/maven-search-v0.0.4.upx)
+
 ### Mverything
 
 Mac 上的 Everything
