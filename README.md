@@ -698,6 +698,8 @@ whistle
 
 - [whistle-v1.0.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/whistle-v1.0.8.upx)
 
+- [whistle-v1.0.9.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/whistle-v1.0.9.upx)
+
 ### winget
 
 winget for uTools
@@ -749,6 +751,8 @@ winget for uTools
 使用翻译进行变量格式化命名.
 
 - [变量快速翻译命名插件-v0.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/变量快速翻译命名插件-v0.1.2.upx)
+
+- [变量快速翻译命名插件-v0.1.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/变量快速翻译命名插件-v0.1.3.upx)
 
 ### 编码小助手
 
@@ -1042,6 +1046,12 @@ Emoji版扫雷，又可以愉快的划水了。
 
 - [扫雷-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/扫雷-v0.0.1.upx)
 
+### 色彩助手
+
+轻松搭配色彩
+
+- [色彩助手-v2.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/色彩助手-v2.0.0.upx)
+
 ### 提醒
 
 提醒功能
@@ -1099,6 +1109,8 @@ Random character number generation.
 - [沙拉查词-v0.2.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/沙拉查词-v0.2.5.upx)
 
 - [沙拉查词-v0.2.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/沙拉查词-v0.2.7.upx)
+
+- [沙拉查词-v0.2.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/沙拉查词-v0.2.8.upx)
 
 ### 占位图
 
@@ -1356,6 +1368,8 @@ Random character number generation.
 
 - [音乐播放器-v1.8.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.1.upx)
 
+- [音乐播放器-v1.8.10.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.10.upx)
+
 - [音乐播放器-v1.8.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.3.upx)
 
 - [音乐播放器-v1.8.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.4.upx)
@@ -1417,6 +1431,12 @@ Random character number generation.
 科学的步入“渣男”行列
 
 - [渣男：说话的艺术-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/渣男：说话的艺术-v1.0.2.upx)
+
+### 正则编辑器
+
+JavaScript & PHP正则表达式编辑器
+
+- [正则编辑器-v1.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/正则编辑器-v1.1.0.upx)
 
 ### 正则表达式
 
