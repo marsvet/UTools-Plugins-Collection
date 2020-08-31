@@ -246,6 +246,8 @@ gin 文档查询，包含中英文文档
 
 - [Github助手-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Github助手-v0.1.0.upx)
 
+- [Github助手-v0.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Github助手-v0.1.1.upx)
+
 ### gitmoji
 
 git commit 中添加 emoji
