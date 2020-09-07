@@ -1372,6 +1372,8 @@ Random character number generation.
 
 - [音乐播放器-v1.8.10.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.10.upx)
 
+- [音乐播放器-v1.8.11.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.11.upx)
+
 - [音乐播放器-v1.8.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.3.upx)
 
 - [音乐播放器-v1.8.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.4.upx)
