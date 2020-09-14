@@ -614,6 +614,8 @@ sql 格式化工具
 
 - [tinypng压缩图片-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/tinypng压缩图片-v0.0.3.upx)
 
+- [tinypng压缩图片-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/tinypng压缩图片-v1.0.0.upx)
+
 ### todo
 
 随时记录你的大小事务
@@ -1054,6 +1056,8 @@ Emoji版扫雷，又可以愉快的划水了。
 
 - [色彩助手-v2.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/色彩助手-v2.0.0.upx)
 
+- [色彩助手-v2.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/色彩助手-v2.0.1.upx)
+
 ### 提醒
 
 提醒功能
@@ -1185,6 +1189,8 @@ Random character number generation.
 快速发送信息给微信联系人
 
 - [网页微信助手-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/网页微信助手-v1.0.2.upx)
+
+- [网页微信助手-v1.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/网页微信助手-v1.0.3.upx)
 
 ### 网站工具箱
 
@@ -1441,6 +1447,8 @@ Random character number generation.
 JavaScript & PHP正则表达式编辑器
 
 - [正则编辑器-v1.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/正则编辑器-v1.1.0.upx)
+
+- [正则编辑器-v1.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/正则编辑器-v1.1.1.upx)
 
 ### 正则表达式
 
