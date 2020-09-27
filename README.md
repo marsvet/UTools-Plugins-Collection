@@ -1078,6 +1078,8 @@ ping端口或者IP
 
 - [聚合翻译-v1.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/聚合翻译-v1.0.6.upx)
 
+- [聚合翻译-v1.0.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/聚合翻译-v1.0.7.upx)
+
 ### 聚合IP
 
 聚合IP查询
@@ -1641,6 +1643,12 @@ JavaScript & PHP正则表达式编辑&测试
 - [斗图-v0.2.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/斗图-v0.2.7.upx)
 
 - [斗图-v0.2.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/斗图-v0.2.8.upx)
+
+### 桌面挂件
+
+桌面挂件
+
+- [桌面挂件-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/桌面挂件-v1.0.0.upx)
 
 ### 自动化助手
 
