@@ -324,6 +324,8 @@ http(s)抓包
 
 - [http(s)抓包-v1.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/http(s)抓包-v1.1.2.upx)
 
+- [http(s)抓包-v1.2.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/http(s)抓包-v1.2.0.upx)
+
 ### HTTP模拟请求
 
 HTTP模拟请求，支持 Post、Get请求模拟
@@ -543,6 +545,12 @@ Nodejs 中文文档
 - [note-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/note-v1.0.0.upx)
 
 - [note-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/note-v1.0.1.upx)
+
+### OCR-图片转文字
+
+快速识别图片中的文字
+
+- [OCR-图片转文字-v1.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/OCR-图片转文字-v1.1.0.upx)
 
 ### OnlineChatroom
 
@@ -1539,6 +1547,8 @@ Random character number generation.
 - [音乐播放器-v1.8.10.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.10.upx)
 
 - [音乐播放器-v1.8.11.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.11.upx)
+
+- [音乐播放器-v1.8.12.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.12.upx)
 
 - [音乐播放器-v1.8.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.3.upx)
 
