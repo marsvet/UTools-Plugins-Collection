@@ -1602,12 +1602,6 @@ Random character number generation.
 
 - [赞赏-v0.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/赞赏-v0.1.1.upx)
 
-### 插件备份工具
-
-插件备份工具
-
-- [插件备份工具-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/插件备份工具-v0.1.0.upx)
-
 ### 插件面板
 
 已安装插件面板，点击图标启动
