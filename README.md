@@ -1112,6 +1112,8 @@ ping端口或者IP
 
 - [快捷命令-v2.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.0.1.upx)
 
+- [快捷命令-v2.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.1.0.upx)
+
 ### 快速文本处理
 
 按照预设规则快速处理文本
@@ -1549,6 +1551,8 @@ Random character number generation.
 - [音乐播放器-v1.8.11.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.11.upx)
 
 - [音乐播放器-v1.8.12.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.12.upx)
+
+- [音乐播放器-v1.8.13.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.13.upx)
 
 - [音乐播放器-v1.8.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.3.upx)
 
