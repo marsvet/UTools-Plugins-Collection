@@ -856,6 +856,8 @@ winget for uTools
 
 - [便民工具-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/便民工具-v1.0.0.upx)
 
+- [便民工具-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/便民工具-v1.0.1.upx)
+
 ### 变量快速翻译命名插件
 
 使用翻译进行变量格式化命名.
@@ -1114,6 +1116,8 @@ ping端口或者IP
 
 - [快捷命令-v2.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.1.0.upx)
 
+- [快捷命令-v2.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.1.1.upx)
+
 ### 快速文本处理
 
 按照预设规则快速处理文本
@@ -1179,6 +1183,8 @@ ping端口或者IP
 - [批量重命名-v1.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量重命名-v1.1.1.upx)
 
 - [批量重命名-v1.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量重命名-v1.1.2.upx)
+
+- [批量重命名-v1.2.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量重命名-v1.2.0.upx)
 
 ### 批量修改文件名称
 
@@ -1554,6 +1560,8 @@ Random character number generation.
 
 - [音乐播放器-v1.8.13.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.13.upx)
 
+- [音乐播放器-v1.8.14.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.14.upx)
+
 - [音乐播放器-v1.8.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.3.upx)
 
 - [音乐播放器-v1.8.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.4.upx)
@@ -1631,6 +1639,8 @@ JavaScript & PHP正则表达式编辑器
 - [正则编辑器-v1.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/正则编辑器-v1.1.0.upx)
 
 - [正则编辑器-v1.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/正则编辑器-v1.1.1.upx)
+
+- [正则编辑器-v1.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/正则编辑器-v1.1.2.upx)
 
 ### 正则表达式
 
