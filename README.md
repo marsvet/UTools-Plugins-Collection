@@ -122,6 +122,8 @@ rcalculator
 
 - [Code计算器-v0.2.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Code计算器-v0.2.2.upx)
 
+- [Code计算器-v0.2.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Code计算器-v0.2.4.upx)
+
 ### CPU和内存查看
 
 查看当前电脑的CPU和内存使用情况
@@ -878,6 +880,8 @@ winget for uTools
 
 - [编码小助手-v1.3.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/编码小助手-v1.3.3.upx)
 
+- [编码小助手-v1.3.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/编码小助手-v1.3.4.upx)
+
 ### 不朽花密码管理
 
 基于 Amaranth 方法打造的无存储、少记忆的安全密码管理方法
@@ -1445,6 +1449,8 @@ Random character number generation.
 - [文件收藏-v0.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件收藏-v0.0.5.upx)
 
 - [文件收藏-v0.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件收藏-v0.0.6.upx)
+
+- [文件收藏-v0.0.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件收藏-v0.0.7.upx)
 
 ### 文件整理
 
