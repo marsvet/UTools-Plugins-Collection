@@ -1068,6 +1068,8 @@ ping端口或者IP
 
 - [计算稿纸-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/计算稿纸-v1.0.2.upx)
 
+- [计算稿纸-v1.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/计算稿纸-v1.0.3.upx)
+
 ### 鸡汤
 
 干了这碗鸡汤
