@@ -1170,6 +1170,8 @@ ping端口或者IP
 
 - [内网穿透-v1.2.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v1.2.4.upx)
 
+- [内网穿透-v2.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.0.4.upx)
+
 ### 年利率计算
 
 年利率计算
@@ -1293,6 +1295,8 @@ Random character number generation.
 - [沙拉查词-v0.2.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/沙拉查词-v0.2.7.upx)
 
 - [沙拉查词-v0.2.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/沙拉查词-v0.2.8.upx)
+
+- [沙拉查词-v0.2.9.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/沙拉查词-v0.2.9.upx)
 
 ### 占位图
 
