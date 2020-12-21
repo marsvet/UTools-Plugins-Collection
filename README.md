@@ -1678,6 +1678,8 @@ JavaScript & PHP正则表达式编辑&测试
 
 - [斗图-v0.2.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/斗图-v0.2.8.upx)
 
+- [斗图-v0.2.9.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/斗图-v0.2.9.upx)
+
 ### 桌面挂件
 
 桌面挂件
