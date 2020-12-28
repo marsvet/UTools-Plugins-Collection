@@ -1150,6 +1150,8 @@ ping端口或者IP
 
 - [任务清单-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/任务清单-v0.0.4.upx)
 
+- [任务清单-v0.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/任务清单-v0.0.5.upx)
+
 ### 论文文献引用格式生成器
 
 快速准确地生成论文文献引用小工具
@@ -1173,6 +1175,8 @@ ping端口或者IP
 - [内网穿透-v2.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.0.4.upx)
 
 - [内网穿透-v2.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.0.6.upx)
+
+- [内网穿透-v2.0.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.0.7.upx)
 
 ### 年利率计算
 
