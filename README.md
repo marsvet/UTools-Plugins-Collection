@@ -368,6 +368,8 @@ HTTP模拟请求，支持 Post、Get请求模拟
 
 - [icons8搜索-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/icons8搜索-v1.0.2.upx)
 
+- [icons8搜索-v1.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/icons8搜索-v1.0.3.upx)
+
 ### iGot「插件版」
 
 原「Bark助手」，现全面支持app、邮箱、微信推送 ; win & mac桌面客户端管理
@@ -1123,6 +1125,8 @@ ping端口或者IP
 - [快捷命令-v2.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.1.0.upx)
 
 - [快捷命令-v2.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.1.1.upx)
+
+- [快捷命令-v2.2.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.2.1.upx)
 
 ### 快速文本处理
 
