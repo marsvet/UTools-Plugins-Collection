@@ -996,6 +996,8 @@ ping端口或者IP
 
 - [关闭进程-v0.1.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/关闭进程-v0.1.4.upx)
 
+- [关闭进程-v0.1.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/关闭进程-v0.1.5.upx)
+
 ### 汉字转拼音
 
 汉字转拼音
@@ -1181,6 +1183,8 @@ ping端口或者IP
 - [内网穿透-v2.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.0.6.upx)
 
 - [内网穿透-v2.0.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.0.7.upx)
+
+- [内网穿透-v2.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.1.0.upx)
 
 ### 年利率计算
 
