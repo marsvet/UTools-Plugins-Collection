@@ -1186,6 +1186,8 @@ ping端口或者IP
 
 - [内网穿透-v2.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.1.0.upx)
 
+- [内网穿透-v2.2.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.2.0.upx)
+
 ### 年利率计算
 
 年利率计算
@@ -1537,6 +1539,8 @@ Random character number generation.
 - [讯飞ocr-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/讯飞ocr-v0.1.0.upx)
 
 - [讯飞ocr-v0.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/讯飞ocr-v0.1.1.upx)
+
+- [讯飞ocr-v0.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/讯飞ocr-v0.1.2.upx)
 
 ### 颜色管理器
 
