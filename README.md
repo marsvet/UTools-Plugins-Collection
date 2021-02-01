@@ -348,6 +348,8 @@ HTTP模拟请求，支持 Post、Get请求模拟
 
 - [http测试-v0.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/http测试-v0.1.2.upx)
 
+- [http测试-v0.2.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/http测试-v0.2.1.upx)
+
 ### iconfont搜索
 
 快速搜索iconfont图标
