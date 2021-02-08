@@ -82,6 +82,8 @@ C++参考文档
 
 - [calendar-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/calendar-v0.0.3.upx)
 
+- [calendar-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/calendar-v0.0.4.upx)
+
 ### Can I use 查询
 
 查询前端特性兼容性
@@ -1131,6 +1133,8 @@ ping端口或者IP
 - [快捷命令-v2.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.1.1.upx)
 
 - [快捷命令-v2.2.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.2.1.upx)
+
+- [快捷命令-v2.3.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.3.0.upx)
 
 ### 快速文本处理
 
