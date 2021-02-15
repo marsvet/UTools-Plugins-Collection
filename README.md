@@ -352,6 +352,8 @@ HTTP模拟请求，支持 Post、Get请求模拟
 
 - [http测试-v0.2.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/http测试-v0.2.1.upx)
 
+- [http测试-v0.2.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/http测试-v0.2.2.upx)
+
 ### iconfont搜索
 
 快速搜索iconfont图标
@@ -918,6 +920,8 @@ winget for uTools
 
 - [程序员手册-v1.1.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/程序员手册-v1.1.4.upx)
 
+- [程序员手册-v1.1.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/程序员手册-v1.1.6.upx)
+
 ### 词典
 
 中英词典插件
@@ -1135,6 +1139,8 @@ ping端口或者IP
 - [快捷命令-v2.2.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.2.1.upx)
 
 - [快捷命令-v2.3.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.3.0.upx)
+
+- [快捷命令-v2.3.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.3.1.upx)
 
 ### 快速文本处理
 
