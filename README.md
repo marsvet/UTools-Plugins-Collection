@@ -354,6 +354,8 @@ HTTP模拟请求，支持 Post、Get请求模拟
 
 - [http测试-v0.2.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/http测试-v0.2.2.upx)
 
+- [http测试-v0.2.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/http测试-v0.2.3.upx)
+
 ### iconfont搜索
 
 快速搜索iconfont图标
@@ -1554,6 +1556,12 @@ Random character number generation.
 
 - [讯飞ocr-v0.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/讯飞ocr-v0.1.2.upx)
 
+### 颜色助手
+
+色值转换、UI色彩、渐变色、中国传统颜色、图片颜色提取
+
+- [颜色助手-v2.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/颜色助手-v2.1.0.upx)
+
 ### 颜色管理器
 
 颜色管理器
@@ -1605,6 +1613,8 @@ Random character number generation.
 - [音乐播放器-v1.8.14.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.14.upx)
 
 - [音乐播放器-v1.8.16.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.16.upx)
+
+- [音乐播放器-v1.8.17.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.17.upx)
 
 - [音乐播放器-v1.8.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.3.upx)
 
