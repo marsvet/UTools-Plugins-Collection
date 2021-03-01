@@ -368,6 +368,8 @@ HTTP模拟请求，支持 Post、Get请求模拟
 
 - [iconfont搜索-v2.3.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/iconfont搜索-v2.3.0.upx)
 
+- [iconfont搜索-v2.4.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/iconfont搜索-v2.4.0.upx)
+
 ### icons8搜索
 
 搜索icons8的图标，并可以下载png、svg格式，或转成ico、icns格式
@@ -853,6 +855,8 @@ winget for uTools
 - [本地搜索-v2.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/本地搜索-v2.0.2.upx)
 
 - [本地搜索-v2.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/本地搜索-v2.0.3.upx)
+
+- [本地搜索-v2.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/本地搜索-v2.1.2.upx)
 
 ### 便民工具
 
@@ -1394,6 +1398,8 @@ Random character number generation.
 
 - [网页快开-v2.0.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/网页快开-v2.0.8.upx)
 
+- [网页快开-v2.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/网页快开-v2.1.0.upx)
+
 ### 网页微信助手
 
 快速发送信息给微信联系人
@@ -1615,6 +1621,8 @@ Random character number generation.
 - [音乐播放器-v1.8.16.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.16.upx)
 
 - [音乐播放器-v1.8.17.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.17.upx)
+
+- [音乐播放器-v1.8.18.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.18.upx)
 
 - [音乐播放器-v1.8.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐播放器-v1.8.3.upx)
 
