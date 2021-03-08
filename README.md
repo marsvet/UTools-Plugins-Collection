@@ -308,6 +308,8 @@ gorm 文档查询，包含中英文文档
 
 - [hosts切换-v1.2.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/hosts切换-v1.2.3.upx)
 
+- [hosts切换-v2.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/hosts切换-v2.0.0.upx)
+
 ### HTML 文档
 
 HTML MDN 文档
@@ -379,6 +381,8 @@ HTTP模拟请求，支持 Post、Get请求模拟
 - [icons8搜索-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/icons8搜索-v1.0.2.upx)
 
 - [icons8搜索-v1.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/icons8搜索-v1.0.3.upx)
+
+- [icons8搜索-v1.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/icons8搜索-v1.0.4.upx)
 
 ### iGot「插件版」
 
@@ -1148,6 +1152,8 @@ ping端口或者IP
 
 - [快捷命令-v2.3.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.3.1.upx)
 
+- [快捷命令-v2.3.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.3.3.upx)
+
 ### 快速文本处理
 
 按照预设规则快速处理文本
@@ -1188,6 +1194,12 @@ ping端口或者IP
 
 - [密码管理-v1.3.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/密码管理-v1.3.0.upx)
 
+### 密码管理器
+
+开源的密码管理器
+
+- [密码管理器-v2.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/密码管理器-v2.0.1.upx)
+
 ### 内网穿透
 
 将你的内网服务映射到互联网
@@ -1227,6 +1239,8 @@ ping端口或者IP
 - [批量重命名-v1.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量重命名-v1.1.2.upx)
 
 - [批量重命名-v1.2.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量重命名-v1.2.0.upx)
+
+- [批量重命名-v1.2.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量重命名-v1.2.2.upx)
 
 ### 批量修改文件名称
 
