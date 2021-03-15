@@ -484,6 +484,8 @@ Linux 命令文档
 
 - [localopen-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/localopen-v0.0.1.upx)
 
+- [localopen-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/localopen-v0.0.2.upx)
+
 - [localopen-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/localopen-v0.0.3.upx)
 
 ### lodash 文档
@@ -886,6 +888,8 @@ winget for uTools
 
 - [变量快速翻译命名插件-v0.1.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/变量快速翻译命名插件-v0.1.3.upx)
 
+- [变量快速翻译命名插件-v0.1.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/变量快速翻译命名插件-v0.1.4.upx)
+
 ### 编码小助手
 
 时间转换、编解码、哈希加密、Unicode、UUID、进制转换
@@ -1217,6 +1221,8 @@ ping端口或者IP
 - [内网穿透-v2.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.1.0.upx)
 
 - [内网穿透-v2.2.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.2.0.upx)
+
+- [内网穿透-v2.2.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.2.1.upx)
 
 ### 年利率计算
 
@@ -1732,7 +1738,9 @@ JavaScript & PHP正则表达式编辑&测试
 
 ### 斗图
 
-斗图表情搜索插件
+斗图表情搜索
+
+- [斗图-v0.2.10.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/斗图-v0.2.10.upx)
 
 - [斗图-v0.2.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/斗图-v0.2.7.upx)
 
