@@ -852,6 +852,12 @@ winget for uTools
 
 - [备忘助手-v2.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/备忘助手-v2.0.3.upx)
 
+### 备忘快贴
+
+记录的「常用文本」「代码片段」「图片」，快速搜索定位，回车粘贴
+
+- [备忘快贴-v3.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/备忘快贴-v3.0.0.upx)
+
 ### 本地搜索
 
 基于 Everything 更便捷的本地搜索
@@ -935,6 +941,8 @@ winget for uTools
 - [程序员手册-v1.1.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/程序员手册-v1.1.4.upx)
 
 - [程序员手册-v1.1.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/程序员手册-v1.1.6.upx)
+
+- [程序员手册-v1.1.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/程序员手册-v1.1.7.upx)
 
 ### 词典
 
@@ -1203,6 +1211,8 @@ ping端口或者IP
 开源的密码管理器
 
 - [密码管理器-v2.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/密码管理器-v2.0.1.upx)
+
+- [密码管理器-v2.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/密码管理器-v2.0.2.upx)
 
 ### 内网穿透
 
