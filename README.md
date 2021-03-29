@@ -1166,6 +1166,8 @@ ping端口或者IP
 
 - [快捷命令-v2.3.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.3.3.upx)
 
+- [快捷命令-v2.3.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.3.5.upx)
+
 ### 快速文本处理
 
 按照预设规则快速处理文本
