@@ -792,6 +792,8 @@ url参数解析
 
 - [vscode-v2.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/vscode-v2.0.6.upx)
 
+- [vscode-v3.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/vscode-v3.0.3.upx)
+
 ### vue2
 
 vue2文档插件
@@ -1082,6 +1084,8 @@ ping端口或者IP
 
 - [剪切板-v1.3.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/剪切板-v1.3.3.upx)
 
+- [剪切板-v1.4.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/剪切板-v1.4.0.upx)
+
 ### 计划工具
 
 计划工具
@@ -1167,6 +1171,8 @@ ping端口或者IP
 - [快捷命令-v2.3.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.3.3.upx)
 
 - [快捷命令-v2.3.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.3.5.upx)
+
+- [快捷命令-v2.3.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.3.6.upx)
 
 ### 快速文本处理
 
