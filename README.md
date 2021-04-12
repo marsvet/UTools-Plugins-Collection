@@ -52,6 +52,8 @@ autojs文档
 
 - [bilibili-v1.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/bilibili-v1.0.3.upx)
 
+- [bilibili-v1.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/bilibili-v1.0.4.upx)
+
 ### Bookmark Anywhere
 
 跨浏览器书签
@@ -794,6 +796,8 @@ url参数解析
 
 - [vscode-v3.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/vscode-v3.0.3.upx)
 
+- [vscode-v3.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/vscode-v3.1.1.upx)
+
 ### vue2
 
 vue2文档插件
@@ -859,6 +863,8 @@ winget for uTools
 记录的「常用文本」「代码片段」「图片」，快速搜索定位，回车粘贴
 
 - [备忘快贴-v3.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/备忘快贴-v3.0.0.upx)
+
+- [备忘快贴-v3.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/备忘快贴-v3.0.1.upx)
 
 ### 本地搜索
 
