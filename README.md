@@ -866,6 +866,8 @@ winget for uTools
 
 - [备忘快贴-v3.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/备忘快贴-v3.0.1.upx)
 
+- [备忘快贴-v3.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/备忘快贴-v3.0.2.upx)
+
 ### 本地搜索
 
 基于 Everything 更便捷的本地搜索
@@ -1271,6 +1273,8 @@ ping端口或者IP
 - [批量重命名-v1.2.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量重命名-v1.2.0.upx)
 
 - [批量重命名-v1.2.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量重命名-v1.2.2.upx)
+
+- [批量重命名-v1.2.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量重命名-v1.2.3.upx)
 
 ### 批量修改文件名称
 
