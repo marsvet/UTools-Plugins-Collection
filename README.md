@@ -880,6 +880,8 @@ winget for uTools
 
 - [本地搜索-v2.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/本地搜索-v2.1.2.upx)
 
+- [本地搜索-v2.1.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/本地搜索-v2.1.3.upx)
+
 ### 便民工具
 
 便民工具箱
@@ -1141,6 +1143,8 @@ ping端口或者IP
 - [聚合翻译-v1.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/聚合翻译-v1.0.6.upx)
 
 - [聚合翻译-v1.0.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/聚合翻译-v1.0.7.upx)
+
+- [聚合翻译-v1.0.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/聚合翻译-v1.0.8.upx)
 
 ### 聚合IP
 
@@ -1411,6 +1415,8 @@ Random character number generation.
 - [图片压缩-v1.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图片压缩-v1.0.5.upx)
 
 - [图片压缩-v1.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图片压缩-v1.0.6.upx)
+
+- [图片压缩-v1.0.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图片压缩-v1.0.7.upx)
 
 ### 图片转文字
 
