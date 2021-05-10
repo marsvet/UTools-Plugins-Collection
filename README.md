@@ -1280,6 +1280,8 @@ ping端口或者IP
 
 - [批量重命名-v1.2.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量重命名-v1.2.3.upx)
 
+- [批量重命名-v1.2.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量重命名-v1.2.4.upx)
+
 ### 批量修改文件名称
 
 可以批量地修改某个文件夹下的文件名
