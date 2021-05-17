@@ -1456,6 +1456,8 @@ Random character number generation.
 
 - [网页快开-v2.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/网页快开-v2.1.0.upx)
 
+- [网页快开-v2.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/网页快开-v2.1.1.upx)
+
 ### 网页微信助手
 
 快速发送信息给微信联系人
