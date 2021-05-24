@@ -730,6 +730,8 @@ sql 格式化工具
 
 - [tinypng压缩图片-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/tinypng压缩图片-v1.0.0.upx)
 
+- [tinypng压缩图片-v1.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/tinypng压缩图片-v1.1.1.upx)
+
 ### todo
 
 随时记录你的大小事务
@@ -1253,6 +1255,8 @@ ping端口或者IP
 - [内网穿透-v2.2.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.2.0.upx)
 
 - [内网穿透-v2.2.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.2.1.upx)
+
+- [内网穿透-v2.2.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.2.2.upx)
 
 ### 年利率计算
 
