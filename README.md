@@ -1604,6 +1604,8 @@ Random character number generation.
 
 - [小说阅读-v0.3.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/小说阅读-v0.3.2.upx)
 
+- [小说阅读-v0.4.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/小说阅读-v0.4.0.upx)
+
 ### 卸载软件
 
 列出注册表中所有的安装的软件，左键进行卸载，右键打开软件所在目录
@@ -1783,6 +1785,8 @@ JavaScript & PHP正则表达式编辑&测试
 斗图表情搜索
 
 - [斗图-v0.2.10.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/斗图-v0.2.10.upx)
+
+- [斗图-v0.2.20.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/斗图-v0.2.20.upx)
 
 - [斗图-v0.2.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/斗图-v0.2.7.upx)
 
