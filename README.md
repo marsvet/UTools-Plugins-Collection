@@ -1606,6 +1606,8 @@ Random character number generation.
 
 - [小说阅读-v0.4.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/小说阅读-v0.4.0.upx)
 
+- [小说阅读-v0.5.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/小说阅读-v0.5.0.upx)
+
 ### 卸载软件
 
 列出注册表中所有的安装的软件，左键进行卸载，右键打开软件所在目录
