@@ -732,6 +732,8 @@ sql 格式化工具
 
 - [tinypng压缩图片-v1.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/tinypng压缩图片-v1.1.1.upx)
 
+- [tinypng压缩图片-v1.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/tinypng压缩图片-v1.1.2.upx)
+
 ### todo
 
 随时记录你的大小事务
