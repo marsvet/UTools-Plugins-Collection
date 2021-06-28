@@ -1260,6 +1260,8 @@ ping端口或者IP
 
 - [内网穿透-v2.2.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.2.2.upx)
 
+- [内网穿透-v2.2.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/内网穿透-v2.2.4.upx)
+
 ### 年利率计算
 
 年利率计算
