@@ -38,6 +38,12 @@ autojs文档
 
 - [B2A转换-v1.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/B2A转换-v1.1.1.upx)
 
+### barcode utools
+
+读取文件上的条码
+
+- [barcode-utools-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/barcode-utools-v0.0.1.upx)
+
 ### Better Img
 
 给图片添加阴影
@@ -311,6 +317,12 @@ Ghost Note
 gin 文档查询，包含中英文文档
 
 - [gin-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/gin-v0.1.0.upx)
+
+### gitCommit
+
+帮助自己快速完成git commit 内容生成
+
+- [gitCommit-v0.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/gitCommit-v0.0.5.upx)
 
 ### Github助手
 
@@ -616,6 +628,12 @@ A simple markdown editor for utools.
 
 - [Markdown转Html-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Markdown转Html-v0.0.1.upx)
 
+### Maven 依赖查询
+
+Maven 依赖查询
+
+- [Maven-依赖查询-v1.1.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Maven-依赖查询-v1.1.3.upx)
+
 ### maven-search
 
 gradle依赖查询
@@ -792,6 +810,12 @@ React 文档
 
 - [React-文档-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/React-文档-v1.0.0.upx)
 
+### redisClient
+
+轻量级的redis客户端
+
+- [redisClient-v0.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/redisClient-v0.0.5.upx)
+
 ### Redis文档
 
 Redis文档速查
@@ -839,6 +863,12 @@ Spring Boot 文档 (2.2.2 RELEASE) 英文原版
 sql 格式化工具
 
 - [sqlformat-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/sqlformat-v0.0.3.upx)
+
+### sql语句快速生成器
+
+可以将excl或word表格中的内容快速生成sql的插入语句或更新语句
+
+- [sql语句快速生成器-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/sql语句快速生成器-v1.0.2.upx)
 
 ### tinypng压缩图片
 
@@ -889,6 +919,12 @@ URL Parser用于解析URL，并将解析结果分门别类进行显示，比如p
 url参数解析
 
 - [Url-Query-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Url-Query-v1.0.0.upx)
+
+### url_parser
+
+url解析
+
+- [url_parser-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/url_parser-v1.0.0.upx)
 
 ### utools-shell
 
@@ -1182,6 +1218,12 @@ ping端口或者IP
 
 - [端口检测-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/端口检测-v0.0.1.upx)
 
+### 多功能 Json 编辑器
+
+多功能 Json 编辑器
+
+- [多功能-Json-编辑器-v1.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/多功能-Json-编辑器-v1.1.1.upx)
+
 ### 二维码
 
 二维码
@@ -1199,6 +1241,12 @@ ping端口或者IP
 二维码生成 & 解码
 
 - [二维码小助手-v2.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/二维码小助手-v2.0.0.upx)
+
+### 根据背景生成推荐web字体颜色
+
+根据背景生成字体颜色
+
+- [根据背景生成推荐web字体颜色-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/根据背景生成推荐web字体颜色-v0.0.2.upx)
 
 ### 狗屁不通文章生成器
 
@@ -1292,6 +1340,12 @@ ping端口或者IP
 
 - [基金走势-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/基金走势-v1.0.0.upx)
 
+### 今日油价
+
+油价小助手
+
+- [今日油价-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/今日油价-v1.0.1.upx)
+
 ### 计算稿纸
 
 像打草稿一样计算
@@ -1301,6 +1355,12 @@ ping端口或者IP
 - [计算稿纸-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/计算稿纸-v1.0.2.upx)
 
 - [计算稿纸-v1.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/计算稿纸-v1.0.3.upx)
+
+### 计算文本长度
+
+计算文本的长度
+
+- [计算文本长度-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/计算文本长度-v1.0.0.upx)
 
 ### 鸡汤
 
@@ -1409,6 +1469,12 @@ ping端口或者IP
 快速准确地生成论文文献引用小工具
 
 - [论文文献引用格式生成器-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/论文文献引用格式生成器-v0.0.1.upx)
+
+### 路径转换
+
+复制文件(夹)路径、名称、斜杠替换、WSL与Windows路径相互转换
+
+- [路径转换-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/路径转换-v1.0.2.upx)
 
 ### 密码管理
 
@@ -1834,6 +1900,12 @@ Random character number generation.
 
 - [小米路由器远程下载-v0.0.1-final.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/小米路由器远程下载-v0.0.1-final.upx)
 
+### 小说
+
+小说搜索
+
+- [小说-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/小说-v1.0.0.upx)
+
 ### 小说阅读
 
 一个小说阅读工具
@@ -2117,5 +2189,11 @@ JavaScript & PHP正则表达式编辑&测试
 - [资源搜索-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/资源搜索-v0.0.4.upx)
 
 - [资源搜索-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/资源搜索-v0.1.0.upx)
+
+### 坐标拾取
+
+获取并复制鼠标坐标
+
+- [坐标拾取-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/坐标拾取-v0.0.1.upx)
 
 
