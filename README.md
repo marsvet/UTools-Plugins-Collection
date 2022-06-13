@@ -60,11 +60,29 @@ autojs文档
 
 - [bilibili-v1.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/bilibili-v1.0.4.upx)
 
+### bilibili新番时间表
+
+查看b站新番时间表
+
+- [bilibili新番时间表-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/bilibili新番时间表-v0.0.1.upx)
+
 ### Bing图片
 
 必应背景图采集
 
 - [Bing图片-v1.0.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Bing图片-v1.0.8.upx)
+
+### bing壁纸
+
+每天更新bing壁纸
+
+- [bing壁纸-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/bing壁纸-v0.0.2.upx)
+
+### BitwardenManager
+
+Bitwarden的管理插件
+
+- [BitwardenManager-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/BitwardenManager-v0.0.4.upx)
 
 ### Bookmark Anywhere
 
@@ -102,11 +120,25 @@ C++参考文档
 
 - [calendar-v0.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/calendar-v0.0.6.upx)
 
+- [calendar-v1.2.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/calendar-v1.2.1.upx)
+
+### Cambridge Dictionary
+
+Search Words From Cambridge Dictionary
+
+- [Cambridge-Dictionary-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Cambridge-Dictionary-v0.0.1.upx)
+
 ### Can I use 查询
 
 查询前端特性兼容性
 
 - [Can-I-use-查询-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Can-I-use-查询-v0.0.1.upx)
+
+### cheat
+
+the only cheat sheet you need
+
+- [cheat-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/cheat-v0.0.2.upx)
 
 ### Chrome 小助手
 
@@ -150,6 +182,12 @@ rcalculator
 
 - [CPU和内存查看-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/CPU和内存查看-v0.0.1.upx)
 
+### Cross the bridge
+
+过桥游戏
+
+- [Cross-the-bridge-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Cross-the-bridge-v0.0.1.upx)
+
 ### CSS 文档
 
 CSS MDN 文档
@@ -174,6 +212,12 @@ macOS 深色模式与浅色模式切换
 
 - [DarkLight-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/DarkLight-v0.0.1.upx)
 
+### Dash Dataset
+
+能够将Dash的documentation sets直接在utools中进行搜索
+
+- [Dash-Dataset-v2.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Dash-Dataset-v2.0.0.upx)
+
 ### dayjs
 
 dayjs 文档查询，包含中英文文档
@@ -185,6 +229,12 @@ dayjs 文档查询，包含中英文文档
 Default Folder X 工具
 
 - [Default-Folder-X-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Default-Folder-X-v0.0.1.upx)
+
+### Deno API文档
+
+Deno API文档
+
+- [Deno-API文档-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Deno-API文档-v1.0.0.upx)
 
 ### Deskswitch
 
@@ -209,6 +259,8 @@ Bing字典
 文本对比
 
 - [diff-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/diff-v1.0.0.upx)
+
+- [diff-v1.6.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/diff-v1.6.0.upx)
 
 ### DIY关键字
 
@@ -236,6 +288,24 @@ Docker CLI 文档 (v19.03) 英文原版
 
 - [Docker-CLI-文档-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Docker-CLI-文档-v0.0.1.upx)
 
+### DOM Event调试器
+
+输出HTML DOM的多个事件event变量，便于调试
+
+- [DOM-Event调试器-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/DOM-Event调试器-v1.0.0.upx)
+
+### Doonsec洞见微信聚合精华版Pro
+
+洞见微信聚合-安全圈微信搜索_订阅号及文章内容独家收录,一搜即达
+
+- [Doonsec洞见微信聚合精华版Pro-v0.2.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Doonsec洞见微信聚合精华版Pro-v0.2.0.upx)
+
+### ECharts Chinese 文档
+
+ECharts Chinese 文档速查
+
+- [ECharts-Chinese-文档-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/ECharts-Chinese-文档-v1.0.0.upx)
+
 ### Edge 小助手
 
 Microsoft Edge 小助手
@@ -243,6 +313,8 @@ Microsoft Edge 小助手
 - [Edge-小助手-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Edge-小助手-v0.0.1.upx)
 
 - [Edge-小助手-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Edge-小助手-v0.0.2.upx)
+
+- [Edge-小助手-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Edge-小助手-v0.0.4.upx)
 
 ### Electron 文档
 
@@ -261,6 +333,12 @@ Electron 中文文档
 快速搜索Emoji表情
 
 - [Emoji搜索-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Emoji搜索-v0.0.2.upx)
+
+### emoji搜索Pro
+
+🔎快速搜索emoji🔍
+
+- [emoji搜索Pro-v1.3.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/emoji搜索Pro-v1.3.0.upx)
 
 ### es6 文档
 
@@ -299,6 +377,12 @@ fake data，生成随机假数据，比如名称、地址、时间、URL等
 uTools 在 MacOS 下的文件搜索插件
 
 - [Finder-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Finder-v1.0.1.upx)
+
+### Flomo
+
+记录你的想法川流
+
+- [Flomo-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Flomo-v0.0.2.upx)
 
 ### flutter pub search
 
@@ -374,6 +458,24 @@ gorm 文档查询，包含中英文文档
 
 - [GUID-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/GUID-v0.0.1.upx)
 
+### hashids
+
+hashids的加密及解密
+
+- [hashids-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/hashids-v1.0.0.upx)
+
+### Hi,Json
+
+Json数据解析,基于json.cn
+
+- [Hi,Json-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Hi,Json-v1.0.0.upx)
+
+### homebrew
+
+homebrew for uTools
+
+- [homebrew-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/homebrew-v0.0.2.upx)
+
 ### hosts切换
 
 管理你的hosts文件
@@ -434,6 +536,12 @@ HTTP模拟请求，支持 Post、Get请求模拟
 
 - [http测试-v0.2.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/http测试-v0.2.5.upx)
 
+### Hyperf 开发文档
+
+Hyperf 开发文档
+
+- [Hyperf-开发文档-v2.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Hyperf-开发文档-v2.0.0.upx)
+
 ### iconfont搜索
 
 快速搜索iconfont图标
@@ -476,6 +584,12 @@ IDAPython documentation
 
 - [IDA-Python-Docs-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/IDA-Python-Docs-v1.0.0.upx)
 
+### iGot
+
+摆脱桌面端限制，将消息直推云端。手机和电脑随时查看
+
+- [iGot-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/iGot-v0.0.2.upx)
+
 ### iGot「插件版」
 
 原「Bark助手」，现全面支持app、邮箱、微信推送 ; win & mac桌面客户端管理
@@ -512,6 +626,14 @@ iterm执行
 
 - [iTerm执行ssh-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/iTerm执行ssh-v0.0.1.upx)
 
+- [iTerm执行ssh-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/iTerm执行ssh-v0.0.2.upx)
+
+### iTerm执行命令
+
+打开iTerm并执行命令
+
+- [iTerm执行命令-v0.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/iTerm执行命令-v0.0.5.upx)
+
 ### I分享
 
 局域网分享文件
@@ -532,6 +654,12 @@ JDK1.8 API 中文文档
 
 - [JDK1.8-API-中文文档-v1.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/JDK1.8-API-中文文档-v1.1.0.upx)
 
+### jenkins
+
+jenkins插件, 可搜索jenkins，构建项目和查看最后构建时间，查看构建进度等
+
+- [jenkins-v0.0.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/jenkins-v0.0.7.upx)
+
 ### JetBrains
 
 快速打开 JetBrains 系列软件历史项目
@@ -544,11 +672,25 @@ JDK1.8 API 中文文档
 
 - [jFlower(局发)-v1.4.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/jFlower(局发)-v1.4.1.upx)
 
+### Joey
+
+一款用于加密、解密的 utools 插件
+
+- [Joey-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Joey-v1.0.0.upx)
+
+### JSON to Mock.js
+
+将 JSON 快速转为 Mock.js 格式
+
+- [JSON-to-Mock.js-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/JSON-to-Mock.js-v0.0.1.upx)
+
 ### JSON 编辑器
 
 JSON 格式化处理
 
 - [JSON-编辑器-v1.5.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/JSON-编辑器-v1.5.0.upx)
+
+- [JSON-编辑器-v1.6.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/JSON-编辑器-v1.6.0.upx)
 
 ### json-keys
 
@@ -561,6 +703,12 @@ JSON 格式化处理
 json格式化工具
 
 - [JSON-VIEW-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/JSON-VIEW-v1.0.0.upx)
+
+### json2array
+
+将json格式字符串转为各种代码语言的数组或对象代码
+
+- [json2array-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/json2array-v0.0.1.upx)
 
 ### json2go
 
@@ -606,6 +754,24 @@ Json转Postman插件
 
 - [Json转Postman-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Json转Postman-v0.0.2.upx)
 
+### jvm字节码指令文档
+
+字节码指令文档速查
+
+- [jvm字节码指令文档-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/jvm字节码指令文档-v1.0.0.upx)
+
+### JWT Decode
+
+JWT插件
+
+- [JWT-Decode-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/JWT-Decode-v0.0.3.upx)
+
+### Kali Linux 秘籍
+
+kali-linux-cookbook中文文档
+
+- [Kali-Linux-秘籍-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Kali-Linux-秘籍-v1.0.0.upx)
+
 ### kali 工具介绍
 
 kali 官方工具说明汉化版
@@ -613,6 +779,18 @@ kali 官方工具说明汉化版
 - [kali-工具介绍-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/kali-工具介绍-v1.0.0.upx)
 
 - [kali-工具介绍-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/kali-工具介绍-v1.0.1.upx)
+
+### keepass
+
+一款开源的密码管理工具
+
+- [keepass-v0.5.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/keepass-v0.5.6.upx)
+
+### Kotlin Reference 文档
+
+Kotlin Reference 中英双语文档
+
+- [Kotlin-Reference-文档-v1.4.30.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Kotlin-Reference-文档-v1.4.30.upx)
 
 ### Kubectl助手
 
@@ -625,6 +803,18 @@ Kubectl助手，kubernetes/k8s命令速查
 (可能是)宇宙最好语言的 最强框架的 开发文档
 
 - [Laravel-6.x-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Laravel-6.x-v1.0.0.upx)
+
+### Laravel 8.x 中文文档
+
+Laravel 中文文档，不定期定期同步自 learnku 社区，感谢社区热心用户与平台。
+
+- [Laravel-8.x-中文文档-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Laravel-8.x-中文文档-v1.0.2.upx)
+
+### LaTeX 文档
+
+LaTeX 文档速查
+
+- [LaTeX-文档-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/LaTeX-文档-v1.0.0.upx)
 
 ### Licia
 
@@ -656,6 +846,12 @@ Linux 命令文档
 
 - [localopen-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/localopen-v0.0.3.upx)
 
+### location
+
+通过经纬度查询位置
+
+- [location-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/location-v0.0.3.upx)
+
 ### lodash 文档
 
 lodash 文档速查
@@ -667,6 +863,12 @@ lodash 文档速查
 Mac 在 Finder 当前目录新建文件
 
 - [Mac-新建文件-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Mac-新建文件-v0.0.1.upx)
+
+### Mac快捷键 命令文档
+
+Mac快捷键 命令文档
+
+- [Mac快捷键-命令文档-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Mac快捷键-命令文档-v1.0.0.upx)
 
 ### MAC快速切换DNS
 
@@ -685,6 +887,8 @@ MAC快速切换DNS，清楚DNS缓存
 极佳的 Markdown 编辑体验，实时预览、存储
 
 - [Markdown-笔记-v1.8.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Markdown-笔记-v1.8.4.upx)
+
+- [Markdown-笔记-v1.8.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Markdown-笔记-v1.8.5.upx)
 
 ### MarkdownEditor
 
@@ -712,6 +916,14 @@ gradle依赖查询
 
 - [maven-search-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/maven-search-v0.0.4.upx)
 
+- [maven-search-v0.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/maven-search-v0.0.5.upx)
+
+### maven仓库查询
+
+maven和gradle依赖查询
+
+- [maven仓库查询-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/maven仓库查询-v1.0.0.upx)
+
 ### Mockm文档
 
 查看mockm文档
@@ -729,6 +941,12 @@ Mac 上的 Everything
 - [Mverything-v0.1.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Mverything-v0.1.6.upx)
 
 - [Mverything-v0.1.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Mverything-v0.1.7.upx)
+
+### mybatis参数自动拼接
+
+idea的mybatis日志参数自动填入
+
+- [mybatis参数自动拼接-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/mybatis参数自动拼接-v0.0.1.upx)
 
 ### mypd
 
@@ -766,6 +984,12 @@ Nodejs 中文文档
 
 - [note-v1.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/note-v1.0.3.upx)
 
+### NumPy 文档
+
+NumPy 文档速查
+
+- [NumPy-文档-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/NumPy-文档-v1.0.0.upx)
+
 ### OCR-图片转文字
 
 快速识别图片中的文字
@@ -773,6 +997,8 @@ Nodejs 中文文档
 - [OCR-图片转文字-v1.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/OCR-图片转文字-v1.1.0.upx)
 
 - [OCR-图片转文字-v1.2.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/OCR-图片转文字-v1.2.5.upx)
+
+- [OCR-图片转文字-v1.2.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/OCR-图片转文字-v1.2.6.upx)
 
 ### OnlineChatroom
 
@@ -834,6 +1060,12 @@ PlantUML 中文文档
 
 - [proxy-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/proxy-v1.0.0.upx)
 
+### pushPlus推送文本至微信
+
+通过pushPlus推送文本消息至微信等,需要设置token才会发送成功!
+
+- [pushPlus推送文本至微信-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/pushPlus推送文本至微信-v0.0.1.upx)
+
 ### Python 2.7 文档
 
 Python 2.7 文档速查
@@ -857,6 +1089,12 @@ Python 3.7 文档速查
 Python 3.8 文档速查
 
 - [Python-3.8-文档-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Python-3.8-文档-v1.0.0.upx)
+
+### Quick Open
+
+快速打开JetBrains、vscode、sublime、AndroidStudio、Xcode历史项目
+
+- [Quick-Open-v1.0.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Quick-Open-v1.0.8.upx)
 
 ### quick-delete
 
@@ -914,6 +1152,12 @@ Redis文档速查
 
 - [RegexTester-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/RegexTester-v0.1.0.upx)
 
+### regHub
+
+常用正则表达式
+
+- [regHub-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/regHub-v0.0.1.upx)
+
 ### Regulex
 
 正则表达式可视化工具
@@ -926,6 +1170,36 @@ Redis文档速查
 
 - [RomeDigit-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/RomeDigit-v0.0.1.upx)
 
+### RSS订阅
+
+RSS订阅
+
+- [RSS订阅-v1.6.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/RSS订阅-v1.6.0.upx)
+
+### Sec-News
+
+Sec-News 安全文摘
+
+- [Sec-News-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Sec-News-v1.0.0.upx)
+
+### server酱推送文本至微信
+
+通过server酱推送文本消息至微信等,需要设置token才会发送成功!
+
+- [server酱推送文本至微信-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/server酱推送文本至微信-v0.0.1.upx)
+
+### show hosts
+
+搜索hosts并复制到粘贴板
+
+- [show-hosts-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/show-hosts-v0.0.1.upx)
+
+### Six Pan
+
+6盘第三方客户端插件
+
+- [Six-Pan-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Six-Pan-v0.0.3.upx)
+
 ### snippet
 
 snippet 片段 备忘
@@ -937,6 +1211,12 @@ snippet 片段 备忘
 快速搜索sourcetree项目并打开
 
 - [sourcetree-v0.2.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/sourcetree-v0.2.0.upx)
+
+### Spoof
+
+Change your MAC address
+
+- [Spoof-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Spoof-v1.0.0.upx)
 
 ### Spring Boot 文档
 
@@ -955,6 +1235,12 @@ sql 格式化工具
 可以将excl或word表格中的内容快速生成sql的插入语句或更新语句
 
 - [sql语句快速生成器-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/sql语句快速生成器-v1.0.2.upx)
+
+### Swoft 开发文档
+
+Swoft 开发文档
+
+- [Swoft-开发文档-v2.0.10.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Swoft-开发文档-v2.0.10.upx)
 
 ### Tank(坦克大战-摸鱼版)
 
@@ -1004,6 +1290,12 @@ todo
 
 - [transformLatter-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/transformLatter-v0.0.1.upx)
 
+### Translate
+
+中英翻译插件
+
+- [Translate-v3.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Translate-v3.0.0.upx)
+
 ### typescript文档助手
 
 ts文档速查工具,[第一次开发插件，比较简陋]
@@ -1033,6 +1325,8 @@ url解析
 一个开发 uTools 插件的插件
 
 - [uTools-开发者工具-v1.0.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/uTools-开发者工具-v1.0.8.upx)
+
+- [uTools-开发者工具-v1.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/uTools-开发者工具-v1.1.0.upx)
 
 ### utools-shell
 
@@ -1082,6 +1376,18 @@ vue2文档插件
 
 - [vue2-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/vue2-v0.0.1.upx)
 
+### VueProp
+
+Vue-prop自动生成器
+
+- [VueProp-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/VueProp-v0.0.1.upx)
+
+### WaterMark
+
+图片添加水印的插件
+
+- [WaterMark-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/WaterMark-v1.0.0.upx)
+
 ### weather
 
 天气
@@ -1116,6 +1422,8 @@ Web开发者助手
 
 - [Web开发者助手-v1.4.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Web开发者助手-v1.4.0.upx)
 
+- [Web开发者助手-v1.6.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/Web开发者助手-v1.6.0.upx)
+
 ### Web项目发布
 
 Web项目发布辅助
@@ -1141,6 +1449,12 @@ whistle
 winget for uTools
 
 - [winget-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/winget-v0.0.2.upx)
+
+### wttr
+
+The right way to check the weather
+
+- [wttr-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/wttr-v0.0.2.upx)
 
 ### Zhtw
 
@@ -1232,6 +1546,14 @@ winget for uTools
 
 - [变量快速翻译命名插件-v0.1.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/变量快速翻译命名插件-v0.1.8.upx)
 
+- [变量快速翻译命名插件-v0.1.9.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/变量快速翻译命名插件-v0.1.9.upx)
+
+### 变量命名方式兼大小写转换
+
+将任意写法变量名转换为任意写法变量名，另兼有大小写转换功能
+
+- [变量命名方式兼大小写转换-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/变量命名方式兼大小写转换-v1.0.2.upx)
+
 ### 编码小助手
 
 时间转换、编解码、哈希加密、Unicode、UUID、进制转换
@@ -1248,17 +1570,35 @@ winget for uTools
 
 - [编码小助手-v2.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/编码小助手-v2.0.0.upx)
 
+### 必应每日壁纸
+
+获取必应每日壁纸
+
+- [必应每日壁纸-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/必应每日壁纸-v0.0.1.upx)
+
 ### 不朽花密码管理
 
 基于 Amaranth 方法打造的无存储、少记忆的安全密码管理方法
 
 - [不朽花密码管理-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/不朽花密码管理-v0.1.0.upx)
 
+### 彩虹屁
+
+喜欢一个人，连TA放的屁都是彩虹色的。
+
+- [彩虹屁-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/彩虹屁-v0.0.2.upx)
+
 ### 菜单栏
 
 查看所有的菜单栏, 搜索, 点击
 
 - [菜单栏-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/菜单栏-v0.0.2.upx)
+
+### 草稿
+
+草稿
+
+- [草稿-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/草稿-v0.0.2.upx)
 
 ### 超级粘贴
 
@@ -1294,6 +1634,8 @@ winget for uTools
 
 - [程序员手册-v1.1.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/程序员手册-v1.1.7.upx)
 
+- [程序员手册-v1.1.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/程序员手册-v1.1.8.upx)
+
 ### 词典
 
 中英词典插件
@@ -1301,6 +1643,8 @@ winget for uTools
 - [词典-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/词典-v0.1.0.upx)
 
 - [词典-v0.2.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/词典-v0.2.1.upx)
+
+- [词典-v0.2.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/词典-v0.2.2.upx)
 
 ### 磁力搜索
 
@@ -1319,6 +1663,12 @@ winget for uTools
 快速创建代码图像的工具，让你的代码分享逼格更高、排版更直观
 
 - [代码转图片-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/代码转图片-v0.0.2.upx)
+
+### 打开VisualStudio最近的项目
+
+浏览并打开VSStudio最近打开的项目
+
+- [打开VisualStudio最近的项目-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/打开VisualStudio最近的项目-v0.0.2.upx)
 
 ### 地图
 
@@ -1339,6 +1689,12 @@ winget for uTools
 钉钉网页版
 
 - [钉钉-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/钉钉-v0.0.1.upx)
+
+### 钉住
+
+将文本固定在桌面上
+
+- [钉住-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/钉住-v0.0.2.upx)
 
 ### 动态口令
 
@@ -1400,11 +1756,23 @@ ping端口或者IP
 
 - [番茄时钟-v1.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/番茄时钟-v1.0.4.upx)
 
+### 翻译
+
+多语言翻译插件，支持多API切换、音标句子朗读、实时输入翻译、原生列表自动复制
+
+- [翻译-v3.1.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/翻译-v3.1.6.upx)
+
 ### 根据背景生成推荐web字体颜色
 
 根据背景生成字体颜色
 
 - [根据背景生成推荐web字体颜色-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/根据背景生成推荐web字体颜色-v0.0.2.upx)
+
+### 公式计算器
+
+公式计算器
+
+- [公式计算器-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/公式计算器-v0.0.1.upx)
 
 ### 狗屁不通文章生成器
 
@@ -1426,11 +1794,19 @@ ping端口或者IP
 
 - [关闭进程-v0.1.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/关闭进程-v0.1.6.upx)
 
+- [关闭进程-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/关闭进程-v1.0.1.upx)
+
 ### 汉字转拼音
 
 汉字转拼音
 
 - [汉字转拼音-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/汉字转拼音-v1.0.0.upx)
+
+### 好基友
+
+方便好用的基金看板
+
+- [好基友-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/好基友-v1.0.1.upx)
 
 ### 汇率转换
 
@@ -1488,6 +1864,14 @@ ping端口或者IP
 
 - [剪贴板-v1.7.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/剪贴板-v1.7.0.upx)
 
+- [剪贴板-v1.8.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/剪贴板-v1.8.0.upx)
+
+### 简易计算器
+
+简便快捷的计算器
+
+- [简易计算器-v1.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/简易计算器-v1.1.1.upx)
+
 ### 计划工具
 
 计划工具
@@ -1536,6 +1920,12 @@ ping端口或者IP
 
 - [鸡汤-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/鸡汤-v0.0.1.upx)
 
+### 韭菜看板
+
+一款简易查看股票的工具
+
+- [韭菜看板-v1.1.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/韭菜看板-v1.1.3.upx)
+
 ### 记忆力测试
 
 记忆力测试
@@ -1543,6 +1933,12 @@ ping端口或者IP
 - [记忆力测试-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/记忆力测试-v0.0.2.upx)
 
 - [记忆力测试-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/记忆力测试-v0.0.3.upx)
+
+### 脚本运行
+
+可将监视目录下的所有python脚本文件自动加入关键字列表
+
+- [脚本运行-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/脚本运行-v1.0.1.upx)
 
 ### 聚合翻译
 
@@ -1560,6 +1956,8 @@ ping端口或者IP
 
 - [聚合翻译-v1.3.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/聚合翻译-v1.3.0.upx)
 
+- [聚合翻译-v1.3.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/聚合翻译-v1.3.1.upx)
+
 ### 聚合IP
 
 聚合IP查询
@@ -1571,6 +1969,12 @@ ping端口或者IP
 集合 npm, Maven 等库的搜索
 
 - [开发者搜索-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/开发者搜索-v0.0.4.upx)
+
+### 恐鬼症小助手
+
+恐鬼症小助手-快速找出鬼类型
+
+- [恐鬼症小助手-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/恐鬼症小助手-v0.0.1.upx)
 
 ### 古诗和成语
 
@@ -1614,6 +2018,14 @@ ping端口或者IP
 
 - [快捷命令-v2.4.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v2.4.2.upx)
 
+- [快捷命令-v3.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷命令-v3.0.6.upx)
+
+### 快捷桌面
+
+快捷访问本地文件、文件夹、超链接
+
+- [快捷桌面-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/快捷桌面-v0.0.1.upx)
+
 ### 快速文本处理
 
 按照预设规则快速处理文本
@@ -1642,6 +2054,8 @@ ping端口或者IP
 
 - [任务清单-v0.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/任务清单-v0.0.5.upx)
 
+- [任务清单-v0.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/任务清单-v0.0.6.upx)
+
 ### 游览器混合书签
 
 游览器混合书签
@@ -1666,6 +2080,12 @@ Chrome、Edge 浏览器书签搜索
 
 - [路径转换-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/路径转换-v1.0.2.upx)
 
+### 骂人宝典
+
+忍一时风平浪静,退一步越想越气
+
+- [骂人宝典-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/骂人宝典-v1.0.2.upx)
+
 ### 密码管理
 
 密码管理&生成随机密码
@@ -1681,6 +2101,12 @@ Chrome、Edge 浏览器书签搜索
 - [密码管理器-v2.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/密码管理器-v2.0.2.upx)
 
 - [密码管理器-v2.2.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/密码管理器-v2.2.0.upx)
+
+### 摩斯密码
+
+支持汉语的摩斯密码转化
+
+- [摩斯密码-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/摩斯密码-v0.0.1.upx)
 
 ### 内网穿透
 
@@ -1754,6 +2180,12 @@ Chrome、Edge 浏览器书签搜索
 
 - [批量修改文件名称-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/批量修改文件名称-v1.0.1.upx)
 
+### 让我帮你搜索
+
+为什么不问问神奇海螺呢？
+
+- [让我帮你搜索-v0.1.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/让我帮你搜索-v0.1.3.upx)
+
 ### 人民币转大写
 
 将人民币转成大写金额
@@ -1771,6 +2203,12 @@ Chrome、Edge 浏览器书签搜索
 - [人生进度条-v0.0.18.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/人生进度条-v0.0.18.upx)
 
 - [人生进度条-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/人生进度条-v0.0.3.upx)
+
+### 日历
+
+一个简单的日历插件
+
+- [日历-v1.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/日历-v1.1.0.upx)
 
 ### 软件市场
 
@@ -1810,6 +2248,12 @@ Emoji版扫雷，又可以愉快的划水了。
 
 - [提醒-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/提醒-v0.0.1.upx)
 
+### 时间戳转换
+
+时间戳工具，支持毫秒和秒，日期和时间戳互转
+
+- [时间戳转换-v1.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/时间戳转换-v1.1.1.upx)
+
 ### 视频解析
 
 快速读取当前浏览器地址并且跳转到视频解析网站
@@ -1821,6 +2265,12 @@ Emoji版扫雷，又可以愉快的划水了。
 看个时间也要美美哒
 
 - [时钟-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/时钟-v0.0.1.upx)
+
+### 时钟壁纸
+
+抖音爆火罗盘时钟屏保
+
+- [时钟壁纸-v0.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/时钟壁纸-v0.1.1.upx)
 
 ### 数据单位换算
 
@@ -1839,6 +2289,12 @@ Emoji版扫雷，又可以愉快的划水了。
 - [书签搜索-v0.1.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/书签搜索-v0.1.5.upx)
 
 - [书签搜索-v0.1.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/书签搜索-v0.1.8.upx)
+
+### 以太坊助手
+
+单位换算，进制转换，交易json构建...
+
+- [以太坊助手-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/以太坊助手-v0.0.1.upx)
 
 ### 松鼠集 Server
 
@@ -1894,6 +2350,8 @@ Random character number generation.
 
 - [占位图-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/占位图-v0.0.1.upx)
 
+- [占位图-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/占位图-v0.0.3.upx)
+
 ### 重复行统计
 
 重复行统计
@@ -1908,13 +2366,27 @@ Random character number generation.
 
 - [图床-v0.2.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图床-v0.2.5.upx)
 
+- [图床-v1.5.10.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图床-v1.5.10.upx)
+
 - [图床-v1.5.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图床-v1.5.5.upx)
+
+### 驼峰下划线转换器
+
+驼峰下划线转换器
+
+- [驼峰下划线转换器-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/驼峰下划线转换器-v1.0.1.upx)
 
 ### 图片编辑
 
 图片编辑
 
 - [图片编辑-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图片编辑-v1.0.2.upx)
+
+### 图片聊天
+
+将文字转成图片(表情)
+
+- [图片聊天-v0.0.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图片聊天-v0.0.8.upx)
 
 ### 图片批量处理
 
@@ -1933,6 +2405,8 @@ Random character number generation.
 图片拼接
 
 - [图片拼接-v0.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图片拼接-v0.0.5.upx)
+
+- [图片拼接-v0.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/图片拼接-v0.0.6.upx)
 
 ### 图片压缩
 
@@ -1990,6 +2464,8 @@ Random character number generation.
 
 - [网页快开-v2.4.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/网页快开-v2.4.0.upx)
 
+- [网页快开-v2.5.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/网页快开-v2.5.1.upx)
+
 ### 网页微信助手
 
 快速发送信息给微信联系人
@@ -1997,6 +2473,12 @@ Random character number generation.
 - [网页微信助手-v1.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/网页微信助手-v1.0.2.upx)
 
 - [网页微信助手-v1.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/网页微信助手-v1.0.3.upx)
+
+### 网易云热评
+
+网易云音乐，那些脍炙人口、深入人心的热门评论。
+
+- [网易云热评-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/网易云热评-v0.0.1.upx)
 
 ### 网站工具箱
 
@@ -2017,6 +2499,12 @@ Random character number generation.
 - [微信助手-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/微信助手-v1.0.0.upx)
 
 - [微信助手-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/微信助手-v1.0.1.upx)
+
+### 微信多开
+
+在电脑上同时打开多个微信
+
+- [微信多开-v2.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/微信多开-v2.0.0.upx)
 
 ### 微信文件传输助手
 
@@ -2046,11 +2534,19 @@ Random character number generation.
 
 - [文本比较-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文本比较-v0.0.1.upx)
 
+### 文本共享
+
+多设备（多人）间文本共享
+
+- [文本共享-v0.0.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文本共享-v0.0.2.upx)
+
 ### 文件分享
 
 中转空间文件分享
 
 - [文件分享-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件分享-v0.0.4.upx)
+
+- [文件分享-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件分享-v1.0.1.upx)
 
 ### 文件夹助手
 
@@ -2096,6 +2592,18 @@ Random character number generation.
 
 - [文件收藏-v0.0.7.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件收藏-v0.0.7.upx)
 
+### 文件索引
+
+文件索引
+
+- [文件索引-v1.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件索引-v1.1.0.upx)
+
+### 文件、文件夹定位
+
+快速定位文件文件夹
+
+- [文件、文件夹定位-v0.0.4.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件、文件夹定位-v0.0.4.upx)
+
 ### 文件整理
 
 文件快速整理
@@ -2103,6 +2611,14 @@ Random character number generation.
 - [文件整理-v0.0.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件整理-v0.0.5.upx)
 
 - [文件整理-v0.0.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件整理-v0.0.6.upx)
+
+- [文件整理-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件整理-v1.0.0.upx)
+
+### 文件传输助手
+
+更好用的跨端文件传输助手
+
+- [文件传输助手-v1.1.5.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/文件传输助手-v1.1.5.upx)
 
 ### 我的上网IP
 
@@ -2162,6 +2678,12 @@ Random character number generation.
 
 - [卸载软件-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/卸载软件-v0.0.3.upx)
 
+### 悬浮
+
+悬浮你的图片
+
+- [悬浮-v1.2.8.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/悬浮-v1.2.8.upx)
+
 ### 讯飞ocr
 
 使用讯飞ocr接口图片识别文本
@@ -2177,6 +2699,12 @@ Random character number generation.
 - [讯飞ocr-v0.1.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/讯飞ocr-v0.1.2.upx)
 
 - [讯飞ocr-v0.2.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/讯飞ocr-v0.2.3.upx)
+
+### 养基助手
+
+养基助手
+
+- [养基助手-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/养基助手-v1.0.1.upx)
 
 ### 颜色助手
 
@@ -2212,6 +2740,12 @@ Random character number generation.
 
 - [颜色小助手-v1.3.6.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/颜色小助手-v1.3.6.upx)
 
+### 颜色值转换
+
+rgb和hex颜色值转换
+
+- [颜色值转换-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/颜色值转换-v0.0.1.upx)
+
 ### 压缩图片
 
 轻量级图片批量压缩工具，支持JPG，PNG，GIF
@@ -2219,6 +2753,12 @@ Random character number generation.
 - [压缩图片-v0.4.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/压缩图片-v0.4.2.upx)
 
 - [压缩图片-v0.4.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/压缩图片-v0.4.3.upx)
+
+### 一步到位
+
+自动化脚本 - 让繁琐的步骤一步到位
+
+- [一步到位-v2.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/一步到位-v2.1.0.upx)
 
 ### 音乐播放器
 
@@ -2263,6 +2803,12 @@ Random character number generation.
 - [音乐下载-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐下载-v0.1.0.upx)
 
 - [音乐下载-v0.1.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/音乐下载-v0.1.1.upx)
+
+### 阴阳师悬赏封印妖怪查询
+
+阴阳师悬赏封印妖怪刷新地点相关资料
+
+- [阴阳师悬赏封印妖怪查询-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/阴阳师悬赏封印妖怪查询-v1.0.0.upx)
 
 ### 一张
 
@@ -2368,6 +2914,12 @@ JavaScript & PHP正则表达式编辑&测试
 
 - [知乎日报-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/知乎日报-v0.0.1.upx)
 
+### 知乎问题详情
+
+查询知乎问题创建时间等隐藏属性的插件
+
+- [知乎问题详情-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/知乎问题详情-v0.0.3.upx)
+
 ### 知犀思维导图
 
 极佳的思维导图作图体验，云端存储，完全免费
@@ -2402,6 +2954,12 @@ JavaScript & PHP正则表达式编辑&测试
 
 - [桌面挂件-v1.0.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/桌面挂件-v1.0.0.upx)
 
+### 自动关机-重启-休眠
+
+定时-延时关机/重启/休眠的小插件(原理是采用node调用shutdown程序)
+
+- [自动关机-重启-休眠-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/自动关机-重启-休眠-v0.0.1.upx)
+
 ### 自动化助手
 
 让繁琐的步骤一步到位
@@ -2424,17 +2982,31 @@ JavaScript & PHP正则表达式编辑&测试
 
 - [自然语音-v1.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/自然语音-v1.0.1.upx)
 
+### 字数统计
+
+字数统计
+
+- [字数统计-v0.1.0.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/字数统计-v0.1.0.upx)
+
 ### 子网划分
 
 简易子网划分计算器
 
 - [子网划分-v0.0.1.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/子网划分-v0.0.1.upx)
 
+- [子网划分-v0.0.3.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/子网划分-v0.0.3.upx)
+
 ### 自选股
 
 自选股
 
 - [自选股-v0.0.1-beta.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/自选股-v0.0.1-beta.upx)
+
+### 自选基金助手
+
+自选基金助手
+
+- [自选基金助手-v1.7.2.upx](https://cdn.jsdelivr.net/gh/marsvet/uTools-plugins-collection/plugins/自选基金助手-v1.7.2.upx)
 
 ### 资源搜索
 
